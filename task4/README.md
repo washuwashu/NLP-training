@@ -1,1 +1,2 @@
-d'd'd
+这部分是cs224n中实现word2vec的作业，直接使用python实现word2vec中的算法
+a2.pdf 里面是作业的步骤说明
